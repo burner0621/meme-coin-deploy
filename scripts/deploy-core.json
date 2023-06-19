@@ -1,0 +1,42 @@
+[
+    {
+        "name": "BOB",
+        "imple": "0x82B236738Bd5a90727781b151e716308507b88a8"
+    },
+    {
+        "name": "PEPE",
+        "imple": "0x5498F062D5298f92981Fd15B35597EfcB2555012"
+    },
+    {
+        "name": "LADYS",
+        "imple": "0xE087404ff4871b90182814792C36Fa328EC30346"
+    },
+    {
+        "name": "WOJAK",
+        "imple": "0x124C6b312b24D8d9fFEC2fed60739249a072Eb87"
+    },
+    {
+        "name": "bobPriceFeed",
+        "imple": "0x66449006E300ba24a9c16543471f00fa0084F68F"
+    },
+    {
+        "name": "pepePriceFeed",
+        "imple": "0x063cA72A57Be8F4C2EA280e88d72583aD2Fa8709"
+    },
+    {
+        "name": "wojakPriceFeed",
+        "imple": "0x195469B8941Bc90bD09FE3B6F403Ff891d7f4f33"
+    },
+    {
+        "name": "ladysPriceFeed",
+        "imple": "0x1884c02334dD1033bc88Ae75edD03ad54042EaAf"
+    },
+    {
+        "name": "dogePriceFeed",
+        "imple": "0x6DABcC74CaB696905bDED43b498378d4D3801577"
+    },
+    {
+        "name": "DOGE",
+        "imple": "0xA69Ac98Bd5931fFb683830D078458BD39E1a41B6"
+    }
+]
